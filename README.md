@@ -61,7 +61,7 @@ yarn deploy
 
 🎫 Design and Mint a Loogie NFT:
 
-#*---INSERT IMAGE*
+![Screenshot 2021-12-06 at 20 13 08](https://user-images.githubusercontent.com/32189942/144900844-3961842e-6f06-488c-b8e4-596ea25fe32d.png)
 
 
 👛 Open an *incognito* window and navigate to http://localhost:3000 (You'll notice it has a new wallet address).
